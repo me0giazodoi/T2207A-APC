@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace T2207A_APC.assignment6
 {
-    internal class INew
+    public interface INews
     {
+        void Display();
     }
 }
